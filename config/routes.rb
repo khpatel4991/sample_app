@@ -1,11 +1,9 @@
 Rails.application.routes.draw do
-<<<<<<< HEAD
 
   get 'static_pages/home'
-=======
+
   # You can have the root of your site routed with "root"
   root 'static_pages#home'
->>>>>>> static-pages-exercise
   get 'static_pages/help'
   get 'static_pages/about'
   get 'static_pages/contact'
