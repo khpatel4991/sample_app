@@ -1,0 +1,359 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fo",
+				"for	for (…) {…}"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"print",
+				"printList"
+			],
+			[
+				"si",
+				"size"
+			],
+			[
+				"get",
+				"getCacheSizeAndMissPenalty"
+			],
+			[
+				"crea",
+				"Create"
+			],
+			[
+				"thre",
+				"thread"
+			],
+			[
+				"pre",
+				"prev_id"
+			],
+			[
+				"ma",
+				"MAX_THREADS"
+			],
+			[
+				"M",
+				"MAX_THREADS"
+			],
+			[
+				"sta",
+				"STACK_SIZE"
+			],
+			[
+				"ss",
+				"ss_size"
+			],
+			[
+				"S",
+				"STACK_SIZE"
+			],
+			[
+				"my",
+				"my_context"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"main",
+				"main_thread"
+			],
+			[
+				"curr",
+				"curr_thread"
+			],
+			[
+				"cur",
+				"curr_thread"
+			],
+			[
+				"qu",
+				"queue_tid"
+			],
+			[
+				"st",
+				"state"
+			],
+			[
+				"de",
+				"dequeue"
+			],
+			[
+				"con",
+				"my_context"
+			],
+			[
+				"com",
+				"coming_from_main_flag"
+			],
+			[
+				"co",
+				"compFunc"
+			],
+			[
+				"g_",
+				"g_queue_peak_head"
+			],
+			[
+				"arr",
+				"arrayOfInts"
+			],
+			[
+				"bo",
+				"bonusFunction"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 321.0,
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 538.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/khpatel4991/Downloads/sample_app/app/controllers/static_pages_controller.rb",
+		"/home/khpatel4991/Downloads/sample_app/Gemfile",
+		"/tmp/sublime-sftp-browse-1424625702/CDCS/.autofs/ilab/ilab_users/khp46/xv6/signal.h",
+		"/home/khpatel4991/.config/sublime-text-3/Packages/User/sftp_servers/CDCS",
+		"/home/khpatel4991/Downloads/Assignment_3__Basic_HTML-01_198_170_SPRING_2015/Binder, Daniel (db698)/20150214_0122AM (1051506)/student_submission_text.html",
+		"/home/khpatel4991/Desktop/random1.py",
+		"/home/khpatel4991/Desktop/s27.csv",
+		"/home/khpatel4991/Desktop/s19.csv",
+		"/home/khpatel4991/Desktop/random.py",
+		"/home/khpatel4991/Downloads/Attendance - Section-27.csv",
+		"/tmp/sublime-sftp-browse-1424281235/EDEN/eden-vf/home2/u9/khp46/public_html/ee.js",
+		"/tmp/sublime-sftp-browse-1424243810/EDEN/eden-vf/home2/u9/khp46/public_html/ee.js",
+		"/home/khpatel4991/Dropbox/sem4/db541/7/q1.sql",
+		"/home/khpatel4991/Desktop/counter example.csv",
+		"/home/khpatel4991/Desktop/ee.js",
+		"/home/khpatel4991/.config/sublime-text-3/Packages/User/SFTP.sublime-settings",
+		"/tmp/sublime-sftp-browse-1424212858/CDCS/.autofs/ilab/ilab_users/khp46/os541/xv6/Makefile",
+		"/home/khpatel4991/Desktop/main.c",
+		"/home/khpatel4991/.config/sublime-text-3/Packages/User/sftp_servers/EDEN",
+		"/home/khpatel4991/Dropbox/sem4/os516/coding/hw0/ult/mypthread.c",
+		"/home/khpatel4991/Dropbox/sem4/os516/coding/hw0/analyzecache/analyzecache.c",
+		"/tmp/sublime-sftp-browse-1423840329/EDEN/eden-vf/home2/u9/khp46/public_html/index.html",
+		"/home/khpatel4991/Desktop/kk.html",
+		"/home/khpatel4991/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/khpatel4991/Dropbox/sem4/os516/coding/hw0/ult/mypthread.h",
+		"/home/khpatel4991/Dropbox/sem4/os516/coding/assignment/temp1.c",
+		"/home/khpatel4991/Dropbox/sem4/os516/coding/hw0/ult/mtsort.c",
+		"/home/khpatel4991/Dropbox/sem4/os516/coding/assignment/temp22.c",
+		"/home/khpatel4991/Downloads/OS/hw1_cache_size.c",
+		"/home/khpatel4991/Dropbox/sem4/os516/coding/hw0/analyzecache/analyzecache.h",
+		"/home/khpatel4991/Downloads/OS/hw1_cacheline_size.c",
+		"/home/khpatel4991/Desktop/con.c",
+		"/home/khpatel4991/Dropbox/sem4/os516/coding/assignment/mypthread.h",
+		"/media/khpatel4991/F4744B30744AF4C0/Users/Kashyap/Downloads/hw0-template-v2/hw0/ult/mypthread.h",
+		"/home/khpatel4991/Dropbox/sem4/db541/13/q1.sql",
+		"/home/khpatel4991/Dropbox/sem4/db541/12/q1.sql",
+		"/home/khpatel4991/Dropbox/sem4/db541/5/q1.sql",
+		"/home/khpatel4991/Dropbox/sem4/db541/3/q1.sql",
+		"/home/khpatel4991/Dropbox/sem4/db541/1/q1.sql",
+		"/home/khpatel4991/Downloads/sem4/os516/coding/assignment/temp22.c",
+		"/home/khpatel4991/Documents/os541/hw0/ult/mypthread-system-override.h",
+		"/home/khpatel4991/Documents/os541/hw0/ult/mypthread.c",
+		"/home/khpatel4991/Documents/os541/hw0/ult/mtsort.c",
+		"/home/khpatel4991/Documents/os541/hw0/ult/mypthread.h",
+		"/home/khpatel4991/Downloads/data.csv",
+		"/home/khpatel4991/Downloads/test.cpp",
+		"/home/khpatel4991/Downloads/Source.c",
+		"/home/khpatel4991/Downloads/Source.cpp",
+		"/home/khpatel4991/Documents/s.cpp",
+		"/home/khpatel4991/Documents/Answers.txt",
+		"/home/khpatel4991/Downloads/CountVocalists.java",
+		"/home/khpatel4991/Documents/bf.c",
+		"/home/khpatel4991/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/media/khpatel4991/Media/sem4/os516/practice/memread.c",
+		"/home/khpatel4991/Documents/os516/assignment/temp1.c",
+		"/home/khpatel4991/Documents/os516/assignment/temp2.c",
+		"/home/khpatel4991/Documents/os516/assignment/temp22.c",
+		"/home/khpatel4991/Downloads/wordCountJava.java"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"QEMU",
+			"_shutdown\\",
+			"curr_thread",
+			"inline",
+			"#",
+			"threads",
+			"info",
+			"yield"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"pid"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 112.0
+	},
+	"project": "README.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
